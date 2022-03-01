@@ -1,0 +1,425 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>... or A merry discourse, twixt him and his Joane that sometimes did live as never did none, but now at the last she proves very kinde, and doth what heed have her, as here you may finde. To three severall tunes, called, But I know what I know, Captaine Ward, and Gilty Coate Peggy.</title>
+            <title>Merry discourse, twixt him and his Joane.</title>
+            <author>E. F. (Edward Ford), fl. 1630?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13588</idno>
+            <idno type="STC">STC 11154</idno>
+            <idno type="EEBO-CITATION">99826373</idno>
+            <idno type="PROQUEST">99826373</idno>
+            <idno type="VID">198420</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B13588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198420)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2123:82/83)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>... or A merry discourse, twixt him and his Joane that sometimes did live as never did none, but now at the last she proves very kinde, and doth what heed have her, as here you may finde. To three severall tunes, called, But I know what I know, Captaine Ward, and Gilty Coate Peggy.</title>
+                  <title>Merry discourse, twixt him and his Joane.</title>
+                  <author>E. F. (Edward Ford), fl. 1630?-1660.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>for F. Coules,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[ca. 1640?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Ed. Ford.</note>
+                  <note>Verse - "The tune, but I know, &amp;c.".</note>
+                  <note>In two parts; woodcuts at head of first part.</note>
+                  <note>Printed on verso of STC 16861.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:198420:1" rendition="simple:additions"/>
+            <head>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> OR</head>
+            <argument>
+               <lg>
+                  <l>A merry diſcourſe, twixt him and his <hi>Joane,</hi>
+                  </l>
+                  <l>That ſometimes did live as never did none,</l>
+                  <l>But now at the laſt ſhe proves very kinde,</l>
+                  <l>And doth what heed have her, as here you may finde.</l>
+               </lg>
+            </argument>
+            <opener>To three ſeverall tunes, called, But I know what I know, Captaine Ward, and Gilty Coate Peggy.</opener>
+            <p>
+               <figure/>
+               <figure/>
+            </p>
+            <div n="1" type="part">
+               <div type="section">
+                  <opener>The Tune, but I know, &amp;c.</opener>
+                  <sp>
+                     <speaker>Man.</speaker>
+                     <l>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>Ome Jo<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> by thy owne déereſt husband ſit downe</l>
+                     <l>And caſt <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ay from thée this impudent frowne,</l>
+                     <l>know I <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ove thée as déere as I doe,</l>
+                     <l>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e with a <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aylor that's honeſt and true.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <l>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y thou diſſ<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>bling varlot away,</l>
+                     <l>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> leave this th<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> prating and cogging, I ſay,</l>
+                     <l>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> whilſt like a drunkard thou thus doſt remaine</l>
+                     <l>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>er, ſhall lov<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> thée, I tell thee againe.</l>
+                  </sp>
+               </div>
+               <div type="section">
+                  <opener>Captaine Ward.</opener>
+                  <sp>
+                     <speaker>Man.</speaker>
+                     <l>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> wife what would'ſt thou have me doe</l>
+                     <l>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ore then I now have done,</l>
+                     <l>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> not I pawn<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> my cloathes for thée,</l>
+                     <l>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> likewiſe ſoul<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> my ſhune,</l>
+                     <l>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> my ſhirt in lavender,</l>
+                     <l>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> cloake is likewiſe ſould:</l>
+                     <l>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oſt thou <hi>Joane</hi> for all this love,</l>
+                     <l>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>in with <hi>Jacke</hi> to ſcould.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <l>Why, thou deboiſt and drunken ſot,</l>
+                     <l>did'ſt doe all this for me,</l>
+                     <l>Or for the love you alwayes bare,</l>
+                     <l>to evill company?</l>
+                     <l>And therefore hold thy ſelfe content,</l>
+                     <l>and leave this idle prate,</l>
+                     <l>Or as I am thy honeſt wife,</l>
+                     <l>Ile lay thee o're the pate.</l>
+                  </sp>
+               </div>
+               <div type="section">
+                  <opener>Gilty Coate Peggy.</opener>
+                  <sp>
+                     <speaker>Man.</speaker>
+                     <l>Come chucke no more of this, but ſit thee downe by me,</l>
+                     <l>And then what is amiſſe, Ile mend in verity,</l>
+                     <l>My money I will ſave out of the Cup and Can,</l>
+                     <l>And kéepe thée fine and brave, as I am an honeſt man:</l>
+                     <l>Then chide no more my déere, but all my faults remit,</l>
+                     <l>And then as I am here, Ile mend my drunken fit.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <l>How many times haſt thou this promiſed unto me,</l>
+                     <l>And yet haſt broke thy vow the more's the ſhame for thée</l>
+                     <l>And therefore Ile be wiſe, and take your word no more,</l>
+                     <l>But ſcratch out both your eyes if you goe out of dore;</l>
+                     <l>And therefore ſit you ſtill and ſtirre not for your life,</l>
+                     <l>I once will have my will, although I am your wife,</l>
+                  </sp>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:198420:1" rendition="simple:additions"/>
+               <head>The ſecond part,</head>
+               <opener>to the ſame tunes.</opener>
+               <div type="section">
+                  <opener>But I know what, &amp;c.</opener>
+                  <sp>
+                     <speaker>Man.</speaker>
+                     <l>WEll, do what thou wilt, I am thine at command,</l>
+                     <l>But let not my neighbours of this underſtand;</l>
+                     <l>For that if thou doſt, I know it will be</l>
+                     <l>A ſhame to thy ſelfe, diſgrace unto me.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <l>No matter for that, Ile make you to know,</l>
+                     <l>What 'tis for to iniure a loving wife ſo,</l>
+                     <l>In pawning her goods, and making her be,</l>
+                     <l>A ſcorne to her neighbours, and all long of thée.</l>
+                  </sp>
+               </div>
+               <div type="section">
+                  <opener>Captaine, &amp;c.</opener>
+                  <sp>
+                     <speaker>Man.</speaker>
+                     <l>Come <hi>Joane,</hi> be ſatisfied I pray,</l>
+                     <l>forgive me what is paſt,</l>
+                     <l>And I will thée never offend,</l>
+                     <l>whilſt life and breath doth laſt:</l>
+                     <l>My pots and my Tobacco too,</l>
+                     <l>Ile turne, for to be briefe,</l>
+                     <l>Into a dainty houſe-hold loafe,</l>
+                     <l>and luſty powder-beefe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <l>Well, if I thought all this were true,</l>
+                     <l>and that thou didſt intend</l>
+                     <l>To doe as thou relates to me,</l>
+                     <l>I then ſhould be thy friend;</l>
+                     <l>But I am <hi>Jacke</hi> ſo fearefull growne,</l>
+                     <l>of thy relaps againe,</l>
+                     <l>That I can little credite give,</l>
+                     <l>to what you now maintaine.</l>
+                  </sp>
+               </div>
+               <div type="section">
+                  <opener>Gilty Coate Peggy, &amp;c.</opener>
+                  <sp>
+                     <speaker>Man.</speaker>
+                     <l>Here's my hand ſwéet Ducke, what I have ſaid to thée,</l>
+                     <l>Ile kéepe, if I have lucke<g ref="char:punc">▪</g> till ſuch time that I dye,</l>
+                     <l>And fore that I am dead my love I will unfold</l>
+                     <l>To helpe thee in thy néed, if that thou wilt not ſcould,</l>
+                     <l>I will not coſſened be, I tell thée gentle <hi>Joane,</hi>
+                     </l>
+                     <l>But I will bring to thée my ſhéete, and Ile have none.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <l>Why then ſwéet-heart forgive the words that I have ſaid,</l>
+                     <l>For ſurely while I live, Ile never thee upbraid,</l>
+                     <l>I will not ſcould nor brawle, but keepe my clapper ſtill</l>
+                     <l>And come when thou doſt call do all things to thy will,</l>
+                     <l>Then <hi>Jacke,</hi> forgive thy <hi>Joane,</hi> that is to thee ſo kinde,</l>
+                     <l>Or elſe as hard as ſtone I ſurely ſhall thee finde.</l>
+                  </sp>
+               </div>
+               <div type="section">
+                  <opener>But I know, &amp;c.</opener>
+                  <sp>
+                     <speaker>Man.</speaker>
+                     <l>Why, here is my hand, I am pacified <hi>Joane,</hi>
+                     </l>
+                     <l>And as I will live with thée never lived none,</l>
+                     <l>Then be but as kind as I carefull to thee,</l>
+                     <l>And then none new married ſhall better agree,</l>
+                     <l>For thou with thy Kitchin-ſtuffe I with my toyes</l>
+                     <l>My Hammer and Kittle, will make ſuch a noyſe,</l>
+                     <l>That all that does heare me ſhall tell it for true,</l>
+                     <l>I mend well their worke and pleaſure um too.</l>
+                  </sp>
+               </div>
+               <div type="section">
+                  <opener>Captaine, &amp;c.</opener>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <l>Then <hi>Jacke</hi> take up thy budget ſtraight,</l>
+                     <l>thy kettles braſſe enough,</l>
+                     <l>And I will follow thee and cry.</l>
+                     <l>Maides have you any Kitchin-ſtuffe;</l>
+                     <l>And then the neighbours ſéeing us</l>
+                     <l>ſo fri<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ndly for to goe<g ref="char:punc">▪</g>
+                     </l>
+                     <l>Will ſay that they are loving growne,</l>
+                     <l>who thought it would be ſo.</l>
+                  </sp>
+               </div>
+               <div type="section">
+                  <opener>Gilty Coate, &amp;c.</opener>
+                  <sp>
+                     <speaker>Man.</speaker>
+                     <l>Then to the Ale-houſe we will go with mighty ſpéed</l>
+                     <l>And ſeale up preſently what we h<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ve now decreed,</l>
+                     <l>A full pot of the beſt, a cruſt, and ſo away,</l>
+                     <l>And then we will proteſt we can no longer ſtay:</l>
+                     <l>This is a thriving courſe, if I do not miſtake,</l>
+                     <l>I am ſure I have done worſe but now amends Ile m<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Woman.</speaker>
+                     <l>Well ſay no more, ſwéet-heart but let us both away</l>
+                     <l>For friends you know muſt part, t<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ough ne're ſo lon<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>Go thou through Canon-ſtréet. Ile take the laines a<gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>
+                     </l>
+                     <l>And then at night we'le méet at home for ought we kn<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </l>
+                     <l>But if I be not <hi>Jacke,</hi> at home ſo ſoone as you,</l>
+                     <l>It ſhall but little lacke: and ſo ſwéet-heart adieu.</l>
+                  </sp>
+               </div>
+               <div type="section">
+                  <opener>But I know, &amp;c.</opener>
+                  <lg>
+                     <l>And thus you have heard an end of my ſong,</l>
+                     <l>Which I would be loath that any ſhould wrong,</l>
+                     <l>But if that you do, I tell you but ſo,</l>
+                     <l>I little will ſay, but I know what I know.</l>
+                  </lg>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>Ed. Ford.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for F. Coules.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
